@@ -39,8 +39,9 @@ ADDCOLUMNS(
     "Trimestre", "Q" & INT((MONTH([Date]) + 2) / 3),
     "Dia_Semana", FORMAT([Date], "dddd")
 )
+```
 
-🌟 Estrutura do Modelo Star Schema
+## 🌟 Estrutura do Modelo Star Schema
 
 O modelo final foi conectado na exibição de modelo do Power BI com a F_Vendas no centro e as dimensões conectadas em relacionamentos 1 para Muitos (1:N):
 
@@ -49,7 +50,7 @@ O modelo final foi conectado na exibição de modelo do Power BI com a F_Vendas 
 🔗 D_Descontos[Discount Band] (1) ➡️ F_Vendas[Discount Band] (N)
 🔗 D_Produtos_Detalhes[ID_Produto] (1) ➡️ F_Vendas[ID_Produto] (N)
 
-🖼️ Resultado Visual do Modelo
+## 🖼️ Resultado Visual do Modelo
 
 
 ![Modelo Star Schema](Starschema.jpg)
@@ -58,12 +59,12 @@ O modelo final foi conectado na exibição de modelo do Power BI com a F_Vendas 
 
 
 
+## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-🛠️ Tecnologias e Ferramentas Utilizadas
-Microsoft Power BI Desktop
-Power Query Editor (Transformação e Limpeza de Dados)
-Linguagem DAX (Criação de Tabelas e Inteligência de Tempo)
-Git & GitHub (Versionamento e Portfólio)
+*  Microsoft Power BI Desktop
+*  Power Query Editor (Transformação e Limpeza de Dados)
+*  Linguagem DAX (Criação de Tabelas e Inteligência de Tempo)
+*  Git & GitHub (Versionamento e Portfólio)
 
 Desenvolvido com 💙 durante a formação em Data Analytics na DIO.
 
