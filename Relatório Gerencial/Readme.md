@@ -37,11 +37,11 @@ O objetivo deste projeto foi reformular um relatório financeiro tradicional, tr
 
  ### Página 2: Visão Produto
  
-![Visão Produto](Visão Produto.jpg)
+![Visão Produto](./Visão_Produto.jpg)
 
 ### Página 3: Visão Segmento
 
- ![Visão Segmento](Visão Segmento.jpg)
+ ![Visão Segmento](./Visão_Segmento.jpg)
 
  ---
 
