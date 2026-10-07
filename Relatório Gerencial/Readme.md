@@ -33,15 +33,15 @@ O objetivo deste projeto foi reformular um relatório financeiro tradicional, tr
 
  ### Página 1: Visão Geral
 
- ![Visão Geral](Relatório Gerencial/Visão Geral.jpg)
+ ![Visão Geral](Visão Geral.jpg)
 
  ### Página 2: Visão Produto
  
-![Visão Produto](Relatório Gerencial/Visão Produto.jpg)
+![Visão Produto](Visão Produto.jpg)
 
 ### Página 3: Visão Segmento
 
- ![Visão Segmento](Relatório Gerencial/Visão Segmento.jpg)
+ ![Visão Segmento](Visão Segmento.jpg)
 
  ---
 
