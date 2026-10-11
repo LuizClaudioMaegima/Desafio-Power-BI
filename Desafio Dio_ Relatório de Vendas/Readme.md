@@ -45,7 +45,7 @@ O objetivo deste projeto foi construir um **Relatório Financeiro Corporativo In
 ![Capa](./capa.jpg)
 
 ### 2. Sales Report (Visão Geral)
-![Sales Report](./sales_report.jpg)
+![Sales Report](./relatório_vendas.jpg)
 
 ### 3. Detalhes de Vendas
 ![Detalhes de Vendas](./detalhes_vendas.jpg)
