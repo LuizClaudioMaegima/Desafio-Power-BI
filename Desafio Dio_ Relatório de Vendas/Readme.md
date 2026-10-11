@@ -48,7 +48,7 @@ O objetivo deste projeto foi construir um **Relatório Financeiro Corporativo In
 ![Relatório de Vendas](./relatório_vendas.jpg)
 
 ### 3. Detalhes de Vendas
-![Detalhes de Vendas](./detalhes_vendas.jpg)
+![Detalhes de Vendas](./detalhe_vendas.jpg)
 
 ### 4. Detalhe de Lucro
 ![Detalhe de Lucro](./detalhe_lucro.jpg)
